@@ -1,0 +1,40 @@
+body {
+
+  padding: 7% 15%;
+}
+
+h1{
+  text-align: center;
+}
+
+img {
+  width: 35%;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+
+}
+
+.player1{
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+}
+
+.player2{
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+
+}
+
+.footer {
+  margin-top: 200px;
+  text-align: center;
+}
+body{
+  background-color: #f69988;
+}
